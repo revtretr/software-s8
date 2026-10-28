@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Launcher" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="cursos.Launcher" />
+    <module name="crud-cursos" />
+    <option name="VM_PARAMETERS" value="-Djava.library.path=&quot;D:\USUARIO\Downloads\crud-cursos\crud-cursos\lib&quot;" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
